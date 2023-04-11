@@ -1,0 +1,128 @@
+{
+	"/pages/docker": [
+		{
+			"text": "docker",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "docker安装",
+					"link": "/pages/docker/base",
+					"order": 1
+				},
+				{
+					"text": "镜像",
+					"link": "/pages/docker/mirror",
+					"order": 2
+				},
+				{
+					"text": "容器",
+					"link": "/pages/docker/docker",
+					"order": 3
+				}
+			]
+		}
+	],
+	"/pages/interview": [
+		{
+			"text": "linux面试",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "linux面试",
+					"link": "/pages/interview/interview",
+					"order": 1
+				}
+			]
+		}
+	],
+	"/pages/linux": [
+		{
+			"text": "linux",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "linux 基础知识",
+					"link": "/pages/linux/base",
+					"order": 1
+				},
+				{
+					"text": "shell",
+					"link": "/pages/linux/shell",
+					"order": 2
+				},
+				{
+					"text": "Linux 包管理",
+					"link": "/pages/linux/package",
+					"order": 3
+				},
+				{
+					"text": "vmware",
+					"link": "/pages/linux/vmware",
+					"order": 4
+				},
+				{
+					"text": "vim/vi",
+					"link": "/pages/linux/vim",
+					"order": 5
+				},
+				{
+					"text": "防火墙",
+					"link": "/pages/linux/firewall",
+					"order": 6
+				}
+			]
+		}
+	],
+	"/pages/mysql": [
+		{
+			"text": "mysql",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "mysql基础",
+					"link": "/pages/mysql/base",
+					"order": 1
+				}
+			]
+		}
+	],
+	"/pages/network": [
+		{
+			"text": "网络",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "ss",
+					"link": "/pages/network/command",
+					"order": 1
+				}
+			]
+		}
+	],
+	"/pages/nginx": [
+		{
+			"text": "nginx",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "nginx基础",
+					"link": "/pages/nginx/base",
+					"order": 1
+				}
+			]
+		}
+	],
+	"/pages/tomcat": [
+		{
+			"text": "tomcat",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "tomcat基础",
+					"link": "/pages/tomcat/base",
+					"order": 1
+				}
+			]
+		}
+	]
+}
