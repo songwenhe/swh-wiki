@@ -1,41 +1,16 @@
 [
 	{
-		"text": "linux",
+		"text": "test",
 		"items": [
 			{
-				"text": "linux",
-				"link": "/pages/linux/index",
-				"activeMath": "/linux/"
+				"text": "test1",
+				"link": "/pages/a/index",
+				"activeMath": "/a/"
 			},
 			{
-				"text": "nginx",
-				"link": "/pages/nginx/index",
-				"activeMath": "/nginx/"
-			},
-			{
-				"text": "tomcat",
-				"link": "/pages/tomcat/index",
-				"activeMath": "/tomcat/"
-			},
-			{
-				"text": "interview",
-				"link": "/pages/interview/index",
-				"activeMath": "/interview/"
-			},
-			{
-				"text": "mysql",
-				"link": "/pages/mysql/index",
-				"activeMath": "/mysql/"
-			},
-			{
-				"text": "docker",
-				"link": "/pages/docker/index",
-				"activeMath": "/docker/"
-			},
-			{
-				"text": "network",
-				"link": "/pages/network/index",
-				"activeMath": "/network/"
+				"text": "test2",
+				"link": "/pages/b/index",
+				"activeMath": "/b/"
 			}
 		]
 	}
