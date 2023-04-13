@@ -3,8 +3,13 @@ const nav = [
   {
     text: 'test',
     items: [
-      { text: 'test1', link: '/a/index', activeMath: '/a/' },
-      { text: 'test2', link: '/b/index', activeMath: '/b/' }
+      { text: 'linux', link: '/linux/index', activeMath: '/linux/' },
+      { text: 'nginx', link: '/nginx/index', activeMath: '/nginx/' },
+      { text: 'tomcat', link: '/tomcat/index', activeMath: '/tomcat/' },
+      { text: 'interview', link: '/interview/index', activeMath: '/interview/' },
+      { text: 'mysql', link: '/mysql/index', activeMath: '/mysql/' },
+      { text: 'docker', link: '/docker/index', activeMath: '/docker/' },
+      { text: 'network', link: '/network/index', activeMath: '/network/' }
     ]
   }
 ]
