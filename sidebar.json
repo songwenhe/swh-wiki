@@ -82,6 +82,16 @@
 					"text": "mysql基础",
 					"link": "/pages/mysql/base",
 					"order": 1
+				},
+				{
+					"text": "数据库的备份与还原",
+					"link": "/pages/mysql/dump",
+					"order": 2
+				},
+				{
+					"text": "sql",
+					"link": "/pages/mysql/sql",
+					"order": 3
 				}
 			]
 		}
