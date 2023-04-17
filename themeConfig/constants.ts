@@ -1,5 +1,5 @@
 /* base-config */
-export const baseURL = '/swh-wiki'
+export const baseURL = ''
 export const pageRoot = '/pages'
 
 /* meta */
