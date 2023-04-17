@@ -1,9 +1,9 @@
 ---
-title: 文档索引
+title: linux
 sidebar: false
 aside: false
 layout: page
-order: 3
+order: 1
 ---
 
 <base-index :title="$frontmatter.title"/>
