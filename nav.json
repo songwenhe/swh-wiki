@@ -1,12 +1,37 @@
 [
 	{
-		"text": "test",
+		"text": "linux",
 		"items": [
 			{
 				"text": "linux",
 				"link": "/pages/linux/index",
 				"activeMath": "/linux/"
 			},
+			{
+				"text": "interview",
+				"link": "/pages/interview/index",
+				"activeMath": "/interview/"
+			},
+			{
+				"text": "network",
+				"link": "/pages/network/index",
+				"activeMath": "/network/"
+			}
+		]
+	},
+	{
+		"text": "docker",
+		"items": [
+			{
+				"text": "docker",
+				"link": "/pages/docker/index",
+				"activeMath": "/docker/"
+			}
+		]
+	},
+	{
+		"text": "web服务",
+		"items": [
 			{
 				"text": "nginx",
 				"link": "/pages/nginx/index",
@@ -16,26 +41,16 @@
 				"text": "tomcat",
 				"link": "/pages/tomcat/index",
 				"activeMath": "/tomcat/"
-			},
-			{
-				"text": "interview",
-				"link": "/pages/interview/index",
-				"activeMath": "/interview/"
-			},
+			}
+		]
+	},
+	{
+		"text": "MySQL",
+		"items": [
 			{
 				"text": "mysql",
 				"link": "/pages/mysql/index",
 				"activeMath": "/mysql/"
-			},
-			{
-				"text": "docker",
-				"link": "/pages/docker/index",
-				"activeMath": "/docker/"
-			},
-			{
-				"text": "network",
-				"link": "/pages/network/index",
-				"activeMath": "/network/"
 			}
 		]
 	}
