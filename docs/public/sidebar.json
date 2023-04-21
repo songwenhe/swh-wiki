@@ -92,6 +92,11 @@
 					"text": "sql",
 					"link": "/pages/mysql/sql",
 					"order": 3
+				},
+				{
+					"text": "主从复制",
+					"link": "/pages/mysql/replication",
+					"order": 4
 				}
 			]
 		}

@@ -1,17 +1,40 @@
 import { pageRoot } from './constants'
 const nav = [
   {
-    text: 'test',
+    text: 'linux',
     items: [
       { text: 'linux', link: '/linux/index', activeMath: '/linux/' },
-      { text: 'nginx', link: '/nginx/index', activeMath: '/nginx/' },
-      { text: 'tomcat', link: '/tomcat/index', activeMath: '/tomcat/' },
       { text: 'interview', link: '/interview/index', activeMath: '/interview/' },
-      { text: 'mysql', link: '/mysql/index', activeMath: '/mysql/' },
-      { text: 'docker', link: '/docker/index', activeMath: '/docker/' },
       { text: 'network', link: '/network/index', activeMath: '/network/' }
     ]
+  },
+  {
+    text: 'docker',
+    items: [{ text: 'docker', link: '/docker/index', activeMath: '/docker/' }]
+  },
+  {
+    text: 'web服务',
+    items: [
+      { text: 'nginx', link: '/nginx/index', activeMath: '/nginx/' },
+      { text: 'tomcat', link: '/tomcat/index', activeMath: '/tomcat/' }
+    ]
+  },
+  {
+    text: 'MySQL',
+    items: [{ text: 'mysql', link: '/mysql/index', activeMath: '/mysql/' }]
   }
+  // {
+  //   text: 'web',
+  //   items: [
+  //     { text: 'linux', link: '/linux/index', activeMath: '/linux/' },
+  //     { text: 'nginx', link: '/nginx/index', activeMath: '/nginx/' },
+  //     { text: 'tomcat', link: '/tomcat/index', activeMath: '/tomcat/' },
+  //     { text: 'interview', link: '/interview/index', activeMath: '/interview/' },
+  //     { text: 'mysql', link: '/mysql/index', activeMath: '/mysql/' },
+  //     { text: 'docker', link: '/docker/index', activeMath: '/docker/' },
+  //     { text: 'network', link: '/network/index', activeMath: '/network/' }
+  //   ]
+  // }
 ]
 
 const addPrefix = (link: string) => {
