@@ -18,6 +18,16 @@
 					"text": "容器",
 					"link": "/pages/docker/docker",
 					"order": 3
+				},
+				{
+					"text": "Dockerfile",
+					"link": "/pages/docker/file",
+					"order": 4
+				},
+				{
+					"text": "docker网络",
+					"link": "/pages/docker/network",
+					"order": 5
 				}
 			]
 		}
