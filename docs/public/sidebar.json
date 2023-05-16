@@ -45,6 +45,19 @@
 			]
 		}
 	],
+	"/pages/k8s": [
+		{
+			"text": "kubernetes",
+			"collapsible": true,
+			"items": [
+				{
+					"text": "k8s",
+					"link": "/pages/k8s/base",
+					"order": 1
+				}
+			]
+		}
+	],
 	"/pages/linux": [
 		{
 			"text": "linux",

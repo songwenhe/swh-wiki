@@ -10,7 +10,10 @@ const nav = [
   },
   {
     text: 'docker',
-    items: [{ text: 'docker', link: '/docker/index', activeMath: '/docker/' }]
+    items: [
+      { text: 'docker', link: '/docker/index', activeMath: '/docker/' },
+      { text: 'k8s', link: '/k8s/index', activeMath: '/k8s/' }
+    ]
   },
   {
     text: 'web服务',

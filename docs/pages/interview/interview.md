@@ -71,13 +71,9 @@ tcpdump -i ens33 host 192.168.88.8 and port 22 >> /path/tcpdump.log
 
 `ngx_http_upstream_module`：定义后端服务器列表模块
 
-`ngx_cache_purge`：清楚缓存功能模块 
+`ngx_cache_purge`：清楚缓存功能模块
 
 </details>
-
-
-
-
 
 ## 7.如果你是系统管理员，在 Linux 系统权限划分时，应考虑哪些因素？
 
