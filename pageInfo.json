@@ -15,6 +15,14 @@
 		"layout": "page",
 		"order": 4
 	},
+	"/pages/k8s": {
+		"text": "kubernetes",
+		"link": "/pages/k8s/index",
+		"sidebar": false,
+		"aside": false,
+		"layout": "page",
+		"order": 8
+	},
 	"/pages/linux": {
 		"text": "linux",
 		"link": "/pages/linux/index",

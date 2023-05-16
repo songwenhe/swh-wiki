@@ -26,6 +26,11 @@
 				"text": "docker",
 				"link": "/pages/docker/index",
 				"activeMath": "/docker/"
+			},
+			{
+				"text": "k8s",
+				"link": "/pages/k8s/index",
+				"activeMath": "/k8s/"
 			}
 		]
 	},
